@@ -1,0 +1,75 @@
+#Logo{
+    height: 50px;
+    width: 50px;
+}
+body{
+    background-color: #A9B2B8;
+}
+.ColorNegro{
+    background-color: black;
+    color: white;
+}
+.ColorRojo{
+    background-color: red;
+    color: white;
+}
+.ColorGris{
+    background-color: lightgray;
+    color: black;
+}
+.Imagen{
+    height: 450px;
+    width: auto;
+    align-items: center;
+}
+.ImagenDos{
+    height: 450px;
+    width: 350px;
+    align-items: center;
+}
+.LogosRectangulo{
+    height: 50px;
+    width: 130px;
+    align-items: center;
+}
+.LogosCuadrado{
+    height: 70px;
+    width: 70px;
+}
+.Logos{
+    height: 100px;
+    width: 70px;
+}
+.btnRadio{
+    background-color: lightgray;
+}
+#footer a{
+    text-decoration: none;
+    color: black;
+}
+#footerDivider a{
+    text-decoration: none;
+    color: black;
+}
+.google-maps {
+    position: relative;
+    padding-bottom: 30%;
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100% ;
+}
+.icon{
+    text-decoration: none;
+    color: white;
+}
+.icon:hover{
+    text-decoration: none;
+    color: white;
+}
+
